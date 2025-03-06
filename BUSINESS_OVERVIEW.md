@@ -25,47 +25,59 @@ Our services cater to a diverse range of professionals:
 
 We offer a comprehensive range of à la carte services that clients can purchase individually based on their specific needs:
 
-1. **Resume & CV Writing**
-   - Professional resume writing and formatting
-   - CV development for academic and international positions
-   - Cover letter creation
-   - LinkedIn profile optimization
-   - Pricing: $99-$299 depending on career level
+1. **Resume & CV Services**
+   - Resume Writing (Entry-Level, Mid-Level, Executive)
+   - Resume Editing & Optimization (ATS-friendly & keyword-optimized)
+   - CV Writing (For academic & international job applications)
+   - CV Editing & Formatting
+   - Pricing: $99-$299 depending on career level and complexity
 
-2. **Career Coaching**
-   - One-on-one career strategy sessions
-   - Career path planning and development
-   - Work-life balance coaching
-   - Networking strategy development
-   - Pricing: $125-$200 per hour
+2. **Cover Letter Services**
+   - Custom Cover Letter Writing (General & Job-Specific)
+   - Cover Letter Editing & Optimization
+   - Pricing: $75-$150 per letter
 
-3. **Interview Preparation**
-   - Mock interview sessions with feedback
-   - Industry-specific interview coaching
-   - Behavioral interview training
-   - Salary negotiation tactics
-   - Pricing: $150-$250 per session
+3. **LinkedIn & Personal Branding**
+   - LinkedIn Profile Optimization (Keyword-rich & recruiter-friendly)
+   - LinkedIn Summary & Bio Writing
+   - LinkedIn Content Strategy Consultation
+   - LinkedIn Thought Leadership Posts (Ghostwritten content)
+   - Pricing: $150-$350 depending on service depth
 
-4. **Job Search Strategy**
-   - Customized job search planning
-   - Hidden job market access
-   - Application tracking and management
-   - Employer research and targeting
-   - Pricing: $175-$275 per session
+4. **Job Search & Career Coaching**
+   - Job Application Strategy Consultation
+   - Job Interview Coaching (Mock interview + feedback)
+   - Salary Negotiation Coaching
+   - Networking & Job Search Strategy
+   - Pricing: $125-$275 per session
 
-5. **Personal Branding**
-   - Professional image consulting
-   - Online presence development
-   - Personal brand statement creation
-   - Social media strategy for professionals
-   - Pricing: $200-$350 per package
+5. **Acceptance Letters & Professional Correspondence**
+   - Job Offer Acceptance Letter
+   - University Admission Acceptance Letter
+   - Scholarship Acceptance Letter
+   - Internship Acceptance Letter
+   - Promotion Acceptance Letter
+   - Pricing: $50-$100 per letter
 
-6. **Skills Assessment**
-   - Comprehensive skills evaluation
-   - Strengths and weaknesses analysis
-   - Personalized development planning
-   - Industry-specific skill benchmarking
-   - Pricing: $150-$300 per assessment
+6. **Scholarship & Admission Services**
+   - Scholarship Essay Writing
+   - Personal Statement Writing
+   - Statement of Purpose (SOP) Writing
+   - Recommendation Letter Writing
+   - Pricing: $150-$300 per document
+
+7. **Executive & Business Writing**
+   - Executive Bio Writing
+   - Business Proposal Writing
+   - Grant Writing for Career Growth
+   - Professional Portfolio Development
+   - Pricing: $250-$500 per document
+
+8. **AI-Powered Career Tools** (Future Expansion)
+   - AI Resume Scoring & Optimization
+   - AI-Powered Job Match Suggestions
+   - AI-Generated Interview Practice
+   - Pricing: $19.99-$49.99 per month (subscription-based)
 
 ### Bundled Service Packages
 
