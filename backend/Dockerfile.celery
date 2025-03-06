@@ -1,0 +1,44 @@
+FROM python:3.9-slim
+
+WORKDIR /app
+
+# Set environment variables
+ENV PYTHONDONTWRITEBYTECODE 1
+ENV PYTHONUNBUFFERED 1
+
+# Install system dependencies
+RUN apt-get update \
+    && apt-get install -y --no-install-recommends \
+    gcc \
+    python3-dev \
+    libpq-dev \
+    gettext \
+    && apt-get clean \
+    && rm -rf /var/lib/apt/lists/*
+
+# Install Python dependencies
+COPY requirements.txt /app/
+RUN pip install --upgrade pip \
+    && pip install -r requirements.txt
+
+# Copy the Django project
+COPY . /app/
+
+# Create a non-root user to run the application
+RUN adduser --disabled-password --gecos '' django
+RUN chown -R django:django /app
+
+# Switch to non-root user
+USER django
+
+# Create logs directory
+RUN mkdir -p /app/logs
+
+# Set up entrypoint script
+COPY ./celery-entrypoint.sh /app/celery-entrypoint.sh
+RUN chmod +x /app/celery-entrypoint.sh
+
+ENTRYPOINT ["/app/celery-entrypoint.sh"]
+
+# Run Celery worker
+CMD ["celery", "-A", "core", "worker", "--loglevel=info"]
